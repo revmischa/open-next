@@ -1,5 +1,11 @@
 # open-next
 
+## 0.9.4
+
+### Patch Changes
+
+- aaf4e71: Fix server function handler import path building on Windows
+
 ## 0.9.3
 
 ### Patch Changes
